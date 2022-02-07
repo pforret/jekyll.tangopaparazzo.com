@@ -1,0 +1,8 @@
+*.tmp
+.idea/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.tmp/
+_site/
+log/

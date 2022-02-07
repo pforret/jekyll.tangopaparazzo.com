@@ -1,0 +1,26 @@
+title: New Jekyll site
+email: peter@forret.com
+description: Because it's static, baby
+baseurl: "/"
+url: ""
+twitter_username: pforret
+github_username:  pforret
+
+highlighter:      rouge
+permalink:        pretty
+
+paginate:         10
+
+author:
+  name:           'Peter Forret'
+  url:            https://twitter.com/pforret
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+exclude:
+  - hyde
+  - .idea/
