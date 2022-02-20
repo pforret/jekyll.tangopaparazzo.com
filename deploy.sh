@@ -15,7 +15,12 @@
 
 
 shoarma -X -T wp-content/post.md generate wp-content/gallery
+
 jekyll_taxonomy -c generate category
-jekyll_taxonomy -c generate tag
+git add category
+
+jekyll_taxonomy -w -c generate tag
+git add tag
+
 setver push
 setver new patch
