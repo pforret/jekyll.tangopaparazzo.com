@@ -9,12 +9,13 @@ categories:
 tags: bodrum  egemen  oyku  school  tango  tango48  turkey
 ---
    
-* <i class="fa-solid fa-map-pin"></i> Country: Belgium
-* <i class="fa-solid fa-calendar-day"></i> Date: 2015-10-16
-* <i class="fa-solid fa-circle-user"></i> Photographer: Tango Paparazzo
+This picture was taken by Tango Paparazzo on 2015-10-16 in Belgium.
+
+2015 Tangopaparazzo
 
 ![Tango48 Bodrum https//www.facebook.com/Tango48-196148690594541/](/images/2015/turkey_2015.jpg)
 
+## Technical details
 * <i class="fa-solid fa-camera"></i> Camera: Canon EOS 5D Mark III
 * <i class="fa-solid fa-square-caret-left"></i> Focal Length: 34.0 mm
 * <i class="fa-solid fa-stopwatch"></i> Shutter Speed: 1/80 sec

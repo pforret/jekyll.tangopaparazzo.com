@@ -9,12 +9,13 @@ categories:
 tags: abrazodelmar  belgium  blankenberge  festival  tango  tangopaparazzo  winter
 ---
    
-* <i class="fa-solid fa-map-pin"></i> Country: Belgium
-* <i class="fa-solid fa-calendar-day"></i> Date: 2016-12-03
-* <i class="fa-solid fa-circle-user"></i> Photographer: Tango Paparazzo
+This picture was taken by Tango Paparazzo on 2016-12-03 in Belgium.
+
+2016 www.tangopaparazzo.com - www.facebook.com/tangopaparazzo/
 
 ![Abrazo Del Mar - Dec 2016](/images/2016/abrazodelmar_2016.jpg)
 
+## Technical details
 * <i class="fa-solid fa-camera"></i> Camera: Canon EOS 5D Mark III
 * <i class="fa-solid fa-square-caret-left"></i> Focal Length: 85.0 mm
 * <i class="fa-solid fa-stopwatch"></i> Shutter Speed: 1/100 sec

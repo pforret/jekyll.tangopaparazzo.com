@@ -9,12 +9,13 @@ categories:
 tags: 2x4  genova  italia  italy  lalanterna
 ---
    
-* <i class="fa-solid fa-map-pin"></i> Country: Belgium
-* <i class="fa-solid fa-calendar-day"></i> Date: 2017-01-28
-* <i class="fa-solid fa-circle-user"></i> Photographer: Tango Paparazzo
+This picture was taken by Tango Paparazzo on 2017-01-28 in Belgium.
+
+2017 tangopaparazzo.com
 
 ![La Lanterna @ Genova - Jan 2017](/images/2017/v_lalanterna_2017.jpg)
 
+## Technical details
 * <i class="fa-solid fa-camera"></i> Camera: Canon EOS 5D Mark II
 * <i class="fa-solid fa-square-caret-left"></i> Focal Length: 50.0 mm
 * <i class="fa-solid fa-stopwatch"></i> Shutter Speed: 1/250 sec

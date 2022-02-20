@@ -9,12 +9,13 @@ categories:
 tags: cavoolympo  greece  marathon  olympus  pandora  tango
 ---
    
-* <i class="fa-solid fa-map-pin"></i> Country: Belgium
-* <i class="fa-solid fa-calendar-day"></i> Date: 2016-04-16
-* <i class="fa-solid fa-circle-user"></i> Photographer: Tango Paparazzo
+This picture was taken by Tango Paparazzo on 2016-04-16 in Belgium.
+
+2016 www.tangopaparazzo.com
 
 ![Pandora Tango Marathon 2016](/images/2016/pandora_2016.jpg)
 
+## Technical details
 * <i class="fa-solid fa-camera"></i> Camera: Canon EOS 5D Mark II
 * <i class="fa-solid fa-square-caret-left"></i> Focal Length: 85.0 mm
 * <i class="fa-solid fa-stopwatch"></i> Shutter Speed: 1/50 sec

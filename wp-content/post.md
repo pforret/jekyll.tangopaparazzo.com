@@ -9,12 +9,13 @@ categories:
 tags: {img_keywords}
 ---
    
-* <i class="fa-solid fa-map-pin"></i> Country: {img_country}
-* <i class="fa-solid fa-calendar-day"></i> Date: {img_date}
-* <i class="fa-solid fa-circle-user"></i> Photographer: {img_credit}
+This picture was taken by {img_credit} on {img_date} in {img_country}.
+
+{img_caption}
 
 ![{img_title}]({img_relative})
 
+## Technical details
 * <i class="fa-solid fa-camera"></i> Camera: {img_camera}
 * <i class="fa-solid fa-square-caret-left"></i> Focal Length: {img_focal}
 * <i class="fa-solid fa-stopwatch"></i> Shutter Speed: {img_shutter} sec

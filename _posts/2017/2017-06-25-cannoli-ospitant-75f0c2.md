@@ -9,12 +9,13 @@ categories:
 tags: cannoli  italia  italy  marathon  ospitanti  palermo  seaside
 ---
    
-* <i class="fa-solid fa-map-pin"></i> Country: Belgium
-* <i class="fa-solid fa-calendar-day"></i> Date: 2017-06-25
-* <i class="fa-solid fa-circle-user"></i> Photographer: Tango Paparazzo
+This picture was taken by Tango Paparazzo on 2017-06-25 in Belgium.
+
+2017 www.tangopaparazzo.com - www.facebook.com/tangopaparazzo/
 
 ![Cannoli Ospitanti - June 2017](/images/2017/v_cannoli_2017.jpg)
 
+## Technical details
 * <i class="fa-solid fa-camera"></i> Camera: Canon EOS 5D Mark II
 * <i class="fa-solid fa-square-caret-left"></i> Focal Length: 50.0 mm
 * <i class="fa-solid fa-stopwatch"></i> Shutter Speed: 1/40 sec
