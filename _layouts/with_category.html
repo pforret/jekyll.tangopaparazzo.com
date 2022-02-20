@@ -4,7 +4,7 @@ layout: page
 <h2>Posts with category: <i>{{page.keyword}}</i></h2>
 {{page.count}} posts
 <ul>
-{% assign reversed_posts = site. | sort: published_at | reverse
+{% assign reversed_posts = site.posts | sort: published_at | reverse
 %}{% for post in reversed_posts
 %}{% assign post_tags = post.categories | downcase
 %}{% if post_tags contains page.keyword %}
