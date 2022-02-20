@@ -6,3 +6,5 @@
 .tmp/
 _site/
 log/
+.DS_Store
+*/.DS_Store
