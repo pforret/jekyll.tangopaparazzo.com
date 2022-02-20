@@ -1,15 +1,15 @@
 ---
 title: Tango48 Bodrum https//www.facebook.com/Tango48-196148690594541/
 layout: post
-permalink: /2015/Belgium-tango48-bodrum-h-4f40ee/
+permalink: /2015/Turkey-tango48-bodrum-h-4f40ee/
 image: /images/2015/turkey_2015.jpg
 categories:
    - 2015
-   - Belgium
+   - Turkey
 tags: bodrum  egemen  oyku  school  tango  tango48  turkey
 ---
    
-This picture was taken by Tango Paparazzo on 2015-10-16 in Belgium.
+This picture was taken by Tango Paparazzo on 2015-10-16 in Turkey.
 
 2015 Tangopaparazzo
 

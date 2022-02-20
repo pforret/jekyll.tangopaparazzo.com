@@ -1,15 +1,15 @@
 ---
 title: Amarcord - Bologna Tango Marathon, Oct 2016
 layout: post
-permalink: /2016/Belgium-amarcord---bolog-a5ea74/
+permalink: /2016/Italy-amarcord---bolog-a5ea74/
 image: /images/2016/amarcord_2016.jpg
 categories:
    - 2016
-   - Belgium
+   - Italy
 tags: amarcord  bologna  italia  italy
 ---
    
-This picture was taken by Tango Paparazzo on 2016-10-29 in Belgium.
+This picture was taken by Tango Paparazzo on 2016-10-29 in Italy.
 
 2016 tangopaparazzo.com
 

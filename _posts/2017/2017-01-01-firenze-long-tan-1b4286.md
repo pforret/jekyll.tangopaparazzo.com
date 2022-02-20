@@ -1,15 +1,15 @@
 ---
 title: Firenze Long Tango Weekend 2016
 layout: post
-permalink: /2017/Belgium-firenze-long-tan-1b4286/
+permalink: /2017/Italy-firenze-long-tan-1b4286/
 image: /images/2017/firenze_2016.jpg
 categories:
    - 2017
-   - Belgium
+   - Italy
 tags: firenze  florence  italy  tango  tangopaparazzo
 ---
    
-This picture was taken by Tango Paparazzo on 2017-01-01 in Belgium.
+This picture was taken by Tango Paparazzo on 2017-01-01 in Italy.
 
 2016 www.tangopaparazzo.com - www.facebook.com/tangopaparazzo/
 

@@ -1,15 +1,15 @@
 ---
 title: La Lanterna @ Genova - Jan 2016
 layout: post
-permalink: /2016/Belgium-la-lanterna-geno-cbb211/
+permalink: /2016/Italy-la-lanterna-geno-cbb211/
 image: /images/2016/lalanterna_2016.jpg
 categories:
    - 2016
-   - Belgium
+   - Italy
 tags: 2x4  genova  italia  italy  lalanterna
 ---
    
-This picture was taken by Tango Paparazzo on 2016-01-30 in Belgium.
+This picture was taken by Tango Paparazzo on 2016-01-30 in Italy.
 
 2016 tangopaparazzo.com
 

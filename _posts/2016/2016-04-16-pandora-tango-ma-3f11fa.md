@@ -1,15 +1,15 @@
 ---
 title: Pandora Tango Marathon 2016
 layout: post
-permalink: /2016/Belgium-pandora-tango-ma-3f11fa/
+permalink: /2016/Greece-pandora-tango-ma-3f11fa/
 image: /images/2016/pandora_2016.jpg
 categories:
    - 2016
-   - Belgium
+   - Greece
 tags: cavoolympo  greece  marathon  olympus  pandora  tango
 ---
    
-This picture was taken by Tango Paparazzo on 2016-04-16 in Belgium.
+This picture was taken by Tango Paparazzo on 2016-04-16 in Greece.
 
 2016 www.tangopaparazzo.com
 

@@ -1,15 +1,15 @@
 ---
 title: Cannoli Ospitanti - June 2017
 layout: post
-permalink: /2017/Belgium-cannoli-ospitant-75f0c2/
+permalink: /2017/Italy-cannoli-ospitant-75f0c2/
 image: /images/2017/v_cannoli_2017.jpg
 categories:
    - 2017
-   - Belgium
+   - Italy
 tags: cannoli  italia  italy  marathon  ospitanti  palermo  seaside
 ---
    
-This picture was taken by Tango Paparazzo on 2017-06-25 in Belgium.
+This picture was taken by Tango Paparazzo on 2017-06-25 in Italy.
 
 2017 www.tangopaparazzo.com - www.facebook.com/tangopaparazzo/
 

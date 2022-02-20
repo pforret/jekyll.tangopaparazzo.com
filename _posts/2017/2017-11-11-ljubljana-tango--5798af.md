@@ -1,15 +1,15 @@
 ---
 title: Ljubljana Tango Gathering - Nov 2017
 layout: post
-permalink: /2017/Belgium-ljubljana-tango--5798af/
+permalink: /2017/Slovenia-ljubljana-tango--5798af/
 image: /images/2017/ljubljana2017.jpg
 categories:
    - 2017
-   - Belgium
+   - Slovenia
 tags: 2017  ljubljana  slovenia  tangofestival
 ---
    
-This picture was taken by Tango Paparazzo on 2017-11-11 in Belgium.
+This picture was taken by Tango Paparazzo on 2017-11-11 in Slovenia.
 
 2017 www.tangopaparazzo.com - www.facebook.com/tangopaparazzo/
 

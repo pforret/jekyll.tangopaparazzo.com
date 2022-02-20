@@ -1,15 +1,15 @@
 ---
 title: Beirut Tango Abrazo - Feb 2017
 layout: post
-permalink: /2017/Belgium-beirut-tango-abr-51c352/
+permalink: /2017/Lebanon-beirut-tango-abr-51c352/
 image: /images/2017/beirut-tango-abrazo-feb-2017.jpg
 categories:
    - 2017
-   - Belgium
+   - Lebanon
 tags: abrazo  beirut  lebanon  marathon  tango
 ---
    
-This picture was taken by Tango Paparazzo on 2017-02-18 in Belgium.
+This picture was taken by Tango Paparazzo on 2017-02-18 in Lebanon.
 
 2017 tangopaparazzo.com
 
