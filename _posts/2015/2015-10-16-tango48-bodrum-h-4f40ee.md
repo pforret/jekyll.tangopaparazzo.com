@@ -1,25 +1,23 @@
 ---
 title: Tango48 Bodrum https//www.facebook.com/Tango48-196148690594541/
 layout: post
-permalink: /2015/turkey-tango48-bodrum-h-4f40ee/
-md_path: 2015/2015-10-16-tango48-bodrum-h-4f40ee.md
-image: /wp-content/gallery/turkey_2015.jpg
+permalink: /2015/Belgium-tango48-bodrum-h-4f40ee/
+image: /images/2015/turkey_2015.jpg
 categories:
    - 2015
-   - turkey
-tags:
-   - bodrum
-   - egemen
-   - oyku
-   - school
-   - tango
-   - tango48
-   - turkey
+   - Belgium
+tags: bodrum  egemen  oyku  school  tango  tango48  turkey
 ---
-2015 Tangopaparazzo
+   
+* <i class="fa-solid fa-map-pin"></i> Country: Belgium
+* <i class="fa-solid fa-calendar-day"></i> Date: 2015-10-16
+* <i class="fa-solid fa-circle-user"></i> Photographer: Tango Paparazzo
 
-* Country: turkey
-* Date: 2015-10-16
+![Tango48 Bodrum https//www.facebook.com/Tango48-196148690594541/](/images/2015/turkey_2015.jpg)
 
-![Tango48 Bodrum https//www.facebook.com/Tango48-196148690594541/](/wp-content/gallery/turkey_2015.jpg)
-
+* <i class="fa-solid fa-camera"></i> Camera: Canon EOS 5D Mark III
+* <i class="fa-solid fa-square-caret-left"></i> Focal Length: 34.0 mm
+* <i class="fa-solid fa-stopwatch"></i> Shutter Speed: 1/80 sec
+* <i class="fa-solid fa-circle-dot"></i> Aperture: f/2.8
+* <i class="fa-solid fa-lightbulb"></i> ISO Sensitivity: 400
+* <i class="fa-solid fa-square-full"></i> Resolution: 1620x1080

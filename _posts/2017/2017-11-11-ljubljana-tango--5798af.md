@@ -1,22 +1,23 @@
 ---
 title: Ljubljana Tango Gathering - Nov 2017
 layout: post
-permalink: /2017/belgium-ljubljana-tango--5798af/
-md_path: 2017/2017-11-11-ljubljana-tango--5798af.md
-image: /wp-content/gallery/ljubljana2017.jpg
+permalink: /2017/Belgium-ljubljana-tango--5798af/
+image: /images/2017/ljubljana2017.jpg
 categories:
    - 2017
-   - belgium
-tags:
-   - 2017
-   - ljubljana
-   - slovenia
-   - tangofestival
+   - Belgium
+tags: 2017  ljubljana  slovenia  tangofestival
 ---
-2017 www.tangopaparazzo.com - www.facebook.com/tangopaparazzo/
+   
+* <i class="fa-solid fa-map-pin"></i> Country: Belgium
+* <i class="fa-solid fa-calendar-day"></i> Date: 2017-11-11
+* <i class="fa-solid fa-circle-user"></i> Photographer: Tango Paparazzo
 
-* Country: belgium
-* Date: 2017-11-11
+![Ljubljana Tango Gathering - Nov 2017](/images/2017/ljubljana2017.jpg)
 
-![Ljubljana Tango Gathering - Nov 2017](/wp-content/gallery/ljubljana2017.jpg)
-
+* <i class="fa-solid fa-camera"></i> Camera: Canon EOS 5D Mark II
+* <i class="fa-solid fa-square-caret-left"></i> Focal Length: 24.0 mm
+* <i class="fa-solid fa-stopwatch"></i> Shutter Speed: 1/50 sec
+* <i class="fa-solid fa-circle-dot"></i> Aperture: f/2.8
+* <i class="fa-solid fa-lightbulb"></i> ISO Sensitivity: 6400
+* <i class="fa-solid fa-square-full"></i> Resolution: 1200x675

@@ -1,24 +1,23 @@
 ---
 title: Pandora Tango Marathon 2016
 layout: post
-permalink: /2016/belgium-pandora-tango-ma-3f11fa/
-md_path: 2016/2016-04-16-pandora-tango-ma-3f11fa.md
-image: /wp-content/gallery/pandora_2016.jpg
+permalink: /2016/Belgium-pandora-tango-ma-3f11fa/
+image: /images/2016/pandora_2016.jpg
 categories:
    - 2016
-   - belgium
-tags:
-   - cavoolympo
-   - greece
-   - marathon
-   - olympus
-   - pandora
-   - tango
+   - Belgium
+tags: cavoolympo  greece  marathon  olympus  pandora  tango
 ---
-2016 www.tangopaparazzo.com
+   
+* <i class="fa-solid fa-map-pin"></i> Country: Belgium
+* <i class="fa-solid fa-calendar-day"></i> Date: 2016-04-16
+* <i class="fa-solid fa-circle-user"></i> Photographer: Tango Paparazzo
 
-* Country: belgium
-* Date: 2016-04-16
+![Pandora Tango Marathon 2016](/images/2016/pandora_2016.jpg)
 
-![Pandora Tango Marathon 2016](/wp-content/gallery/pandora_2016.jpg)
-
+* <i class="fa-solid fa-camera"></i> Camera: Canon EOS 5D Mark II
+* <i class="fa-solid fa-square-caret-left"></i> Focal Length: 85.0 mm
+* <i class="fa-solid fa-stopwatch"></i> Shutter Speed: 1/50 sec
+* <i class="fa-solid fa-circle-dot"></i> Aperture: f/1.8
+* <i class="fa-solid fa-lightbulb"></i> ISO Sensitivity: 3200
+* <i class="fa-solid fa-square-full"></i> Resolution: 1620x1080
