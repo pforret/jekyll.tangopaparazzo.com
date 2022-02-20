@@ -25,5 +25,4 @@ git add category
 jekyll_taxonomy -w -c generate tag
 git add tag
 
-setver push
-setver new patch
+setver autopatch
