@@ -1,15 +1,20 @@
 ---
 layout: page
-title: categories
+title: Categories
+fontawesome: <i class="fas fa-star"></i>
 ---
-{% assign raw_items = site.posts | map: categories  | compact %}
-{% assign raw_items = site.posts | map: category | concat: raw_items | compact %}
+{% assign multi = "categories" %}
+{% assign single = "category" %}
+
+{% assign raw_items = site.posts | map: multi  | compact %}
+{% assign raw_items = site.posts | map: single | concat: raw_items | compact %}
 {% for items in raw_items %}
-    {% assign post_items = items | slugify | join: "|" | downcase | append: "|" %}
-    {% assign all_items  = all_items | append: post_items %}
+{% assign post_items = items | join: "|" | downcase | append: "|" %}
+{% assign all_items  = all_items | append: post_items %}
 {% endfor %}
 {% assign unique_items = all_items | split: "|" | sort | uniq %}
 
+
 {% for item in unique_items %}
-<li><a id="{{item}}" href="/category/{{item}}">{{ item }}</a></li>
+<div style='width: 33%; float: left'><i class="fas fa-star"></i> <a id="{{item}}" href="/{{single}}/{{item}}">{{ item }}</a></div>
 {% endfor %}

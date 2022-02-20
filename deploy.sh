@@ -13,8 +13,11 @@
 #    <action>         : [parameter] action to perform: generate
 #    <source>         : [parameter] input folder with images (optional)
 
+git add wp-content/gallery
 
 shoarma -X -T wp-content/post.md generate wp-content/gallery
+git add _posts
+git add images
 
 jekyll_taxonomy -c generate category
 git add category
