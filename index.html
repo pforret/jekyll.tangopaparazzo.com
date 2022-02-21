@@ -5,12 +5,8 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post" style="width: 320px; height: 240px; float: left">
-    <h1 style="font-size: 1em" class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    {% if post.image %}
-    <a href="{{ post.url }}"><img style="max-height: 230px; max-width: 310px" src="{{post.image}}"></a>
-    {% endif %}
-    <hr>
+  <div class="post" style="margin: 1px; width: 320px; height: 240px; float: left; background:  url({{ post.image }}) center; background-size: cover;">
+    <h2 style="font-size: 1em; padding: 2px" class="post-title"><a style="color: #ffffff; background: #00000080" href="{{ post.url }}">{{ post.title }}</a></h2>
   </div>
   {% endfor %}
 </div>
