@@ -2,5 +2,5 @@
 layout: with_tag
 title: Beirut
 keyword: beirut
-count: 1
+count: 3
 ---
