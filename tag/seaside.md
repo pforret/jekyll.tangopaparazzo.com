@@ -2,5 +2,5 @@
 layout: with_tag
 title: Seaside
 keyword: seaside
-count: 5
+count: 6
 ---
