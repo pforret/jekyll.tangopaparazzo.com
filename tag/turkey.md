@@ -2,5 +2,5 @@
 layout: with_tag
 title: Turkey
 keyword: turkey
-count: 3
+count: 2
 ---
